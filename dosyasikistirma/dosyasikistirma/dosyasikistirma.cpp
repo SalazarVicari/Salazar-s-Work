@@ -3,6 +3,7 @@
 
 /*                                   Bu program çok basit bir prototiptir gelistirilebilir sadece bosluksuz ve ard ardına tekrar eden harf verileri sikistirir.
                                                                                   Mustafa Meriç Demiray 210401036
+                              (kodun calismasi icin kodları compile edip programin dosya konumuna dosya.txt adinda bir dosya koyup içine verilerinizi yazin örn -> aaaaaaaaafggggbsssssbhnjjj )
 */
 #include <string>              // bu kutuphane string degiskenlere uygalayabilecegimiz fonksiyonlar saglar
 #include <iostream>            // bu kutuphane kullancının veri giris ve cıkısını yapmasini saglar
